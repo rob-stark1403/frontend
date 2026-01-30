@@ -1,3 +1,4 @@
+@import "tailwindcss";
 /* ============================================
    MEDLINK AI - GLOBAL STYLESHEET
    A blockchain-based healthcare DApp
@@ -6,6 +7,11 @@
 /* ============================================
    CSS RESET & NORMALIZATION
    ============================================ */
+
+/* Tailwind CSS imports */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
 
 *,
 *::before,
